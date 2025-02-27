@@ -1,0 +1,15 @@
+E:\Mods I made\VX PanelV1\VX PanelV1\bin\Debug\VX PanelV1.exe.config
+E:\Mods I made\VX PanelV1\VX PanelV1\bin\Debug\VX PanelV1.exe
+E:\Mods I made\VX PanelV1\VX PanelV1\bin\Debug\VX PanelV1.pdb
+E:\Mods I made\VX PanelV1\VX PanelV1\bin\Debug\Guna.UI2.dll
+E:\Mods I made\VX PanelV1\VX PanelV1\bin\Debug\Newtonsoft.Json.dll
+E:\Mods I made\VX PanelV1\VX PanelV1\bin\Debug\Newtonsoft.Json.xml
+E:\Mods I made\VX PanelV1\VX PanelV1\obj\Debug\VX PanelV1.csproj.AssemblyReference.cache
+E:\Mods I made\VX PanelV1\VX PanelV1\obj\Debug\VX_PanelV1.Properties.Resources.resources
+E:\Mods I made\VX PanelV1\VX PanelV1\obj\Debug\VX PanelV1.csproj.GenerateResource.cache
+E:\Mods I made\VX PanelV1\VX PanelV1\obj\Debug\VX PanelV1.csproj.CoreCompileInputs.cache
+E:\Mods I made\VX PanelV1\VX PanelV1\obj\Debug\VX PanelV1.csproj.Up2Date
+E:\Mods I made\VX PanelV1\VX PanelV1\obj\Debug\VX PanelV1.exe
+E:\Mods I made\VX PanelV1\VX PanelV1\obj\Debug\VX PanelV1.pdb
+E:\Mods I made\VX PanelV1\VX PanelV1\bin\Debug\cxapi.dll
+E:\Mods I made\VX PanelV1\VX PanelV1\obj\Debug\VX_PanelV1.VXPanelV1.resources
